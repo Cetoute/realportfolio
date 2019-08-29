@@ -65,6 +65,19 @@ body {
 }
 
 .skillsSection {
-	background-color: #ff0033;
+	background-color: #ab1327;
 	color: #fff;
+}
+
+.skill {
+	text-align: center;
+}
+
+.chart {
+	position: relative;
+	width: 152px;
+	height: 152px;
+	display: inline-block;
+	margin-left: 25px;
+	text-align: center;
 }
