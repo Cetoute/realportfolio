@@ -98,3 +98,22 @@ body {
 .chart .percent:after {
 	content: "%";
 }
+
+.contactSection {
+	background-color: #fff;
+}
+
+.contactButton {
+	color: #ab1327;
+	padding: 15px 20px;
+	display: inline-block;
+	margin-top: 20px;
+	border: 1px solid #ab1327;
+	border-radius: 20px;
+}
+
+.contactButton:hover {
+	text-decoration: none;
+	color: #fff;
+	background-color: #ab1327;
+}
